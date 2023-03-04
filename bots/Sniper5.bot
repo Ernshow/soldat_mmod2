@@ -1,0 +1,23 @@
+[BOT]
+Name=Sniper
+Color1=$002E787C
+Color2=$003A5C4F
+Skin_Color=$00FFFFFF
+Hair_Color=$00354871
+Favourite_Weapon=Barret M82A1
+Secondary_Weapon=0
+Friend=
+Accuracy=25
+Shoot_Dead=0
+Grenade_Frequency=200
+Camping=255
+OnStartUse=255
+Hair=0
+Headgear=1
+Chain=0
+Chat_Frequency=7
+Chat_Kill=Target Eliminated
+Chat_Dead=Team Delta Down 
+Chat_Lowhealth=Team Delta Moving out
+Chat_SeeEnemy=Target Acquired
+Chat_Winning=Mission Accomplished
